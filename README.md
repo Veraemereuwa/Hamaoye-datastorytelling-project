@@ -1,2 +1,3 @@
 # Hamaoye-datastorytelling-project
-DATA STORYTELLING PROJECT
+ELECTRICITY CONSUMPTION BY COUNTRIES
+This project analyses and visualises the electricity consumption data from wikipedia. 
